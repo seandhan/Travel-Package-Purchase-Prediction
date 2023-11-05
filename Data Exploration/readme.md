@@ -1,4 +1,4 @@
-<font style = "font-family: Arial; font-weight:bold;font-size:2em;color:blue;">Context</font>
+# Context
 
 "**Visit with us**" travel company wants to retain its customers for a longer time period by launching a long-term travel package.  
 
@@ -9,7 +9,7 @@ Now again the company is planning to launch a new product i.e., a long-term trav
 You as a data scientist at "Visit with us" travel company have to *analyze the trend of existing customers' data* and information to *provide recommendations to the marketing team* and also *build a model to predict which customer is potentially going to purchase the long-term travel package*.
 
 
-<font style = "font-family: Arial; font-weight:bold;font-size:2em;color:blue;">Objective</font>
+## Objective
 
 
 1. To predict which customer is more likely to purchase the long-term travel package.
