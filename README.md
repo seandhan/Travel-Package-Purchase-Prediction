@@ -99,7 +99,7 @@ The step by step data preparation before wrangling can be observed in this secti
 
 ### Click to view 👇:
 
-[![Data Preparation]()](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Data%20Preparation/Readme.md)
+[![Data Preparation](https://github.com/seandhan/image_database/blob/main/solution-data-preparation.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Data%20Preparation/Readme.md)
 
 
 
@@ -110,7 +110,7 @@ The step by step data wrangling can be observed in this section
 
 ### Click to view 👇:
 
-[![Data Preparation]()](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Data%20Wrangling/Readme.md)
+[![Data Preparation](https://github.com/seandhan/image_database/blob/main/solution-data-wrangling.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Data%20Wrangling/Readme.md)
 
 
 ----
@@ -176,7 +176,7 @@ The Notebook for the "Data Wrangling" can be accessed below:
 
 ### Click to view 👇:
 
-[![DataWrangle Notebook]()](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Notebooks/Data%20Wrangling.ipynb)
+[![DataWrangle Notebook](https://github.com/seandhan/image_database/blob/main/notebook-data-wrangling.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Notebooks/Data%20Wrangling.ipynb)
 
 
 The Notebook for the "Exploratory Data Analysis" can be accessed below:
@@ -197,7 +197,7 @@ The Notebook for the "Model Comparison" can be accessed below:
 
 ### Click to view 👇:
 
-[![Model Comparison Notebook]()](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Notebooks/Model%20Comparison.ipynb)
+[![Model Comparison Notebook](https://github.com/seandhan/image_database/blob/main/notebook-model-comparison.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Notebooks/Model%20Comparison.ipynb)
 
 
 
