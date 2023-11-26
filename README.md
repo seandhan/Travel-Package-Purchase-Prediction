@@ -169,7 +169,7 @@ The Notebook for the "Data Preparation" can be accessed below:
 
 ### Click to view 👇:
 
-[![DataPrep Notebook]()](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Notebooks/Data%20Preparation.ipynb)
+[![DataPrep Notebook](https://github.com/seandhan/image_database/blob/main/notebook-data-preparation.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Notebooks/Data%20Preparation.ipynb)
 
 
 The Notebook for the "Data Wrangling" can be accessed below:
