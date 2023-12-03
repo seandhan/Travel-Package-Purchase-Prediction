@@ -48,7 +48,8 @@ Now again the company is planning to launch a new product i.e., a long-term trav
 ## 💻 Dataset Overview <a name = "dataset-overview"></a>
 
 The dataset source file can found through the following link:
-### Click to view 👇:
+
+**Click to view** 👇
 
 [![Data_link](https://github.com/seandhan/image_database/blob/main/Data-LINK-.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Tourism.xlsx)
 
@@ -84,7 +85,7 @@ The dataset contains 20 variables. The data dictionary below explains each varia
 
 </details>
 
-### Click to view 👇:
+**Click to view** 👇
 
 [![Data Exploration](https://github.com/seandhan/image_database/blob/main/Solution-Dataset%20Exploration-.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Data%20Exploration/readme.md)
 
@@ -97,7 +98,7 @@ There was a significant amount of data pre-processing required prior data visual
 
 The step by step data preparation before wrangling can be observed in this section
 
-### Click to view 👇:
+**Click to view** 👇
 
 [![Data Preparation](https://github.com/seandhan/image_database/blob/main/solution-data-preparation.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Data%20Preparation/Readme.md)
 
@@ -108,7 +109,7 @@ The step by step data preparation before wrangling can be observed in this secti
 
 The step by step data wrangling can be observed in this section
 
-### Click to view 👇:
+**Click to view** 👇
 
 [![Data Preparation](https://github.com/seandhan/image_database/blob/main/solution-data-wrangling.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Data%20Wrangling/Readme.md)
 
@@ -120,7 +121,7 @@ The step by step data wrangling can be observed in this section
 
 The Univariate and Bivariate analysis can be seen here.
 
-### Click to view 👇:
+**Click to view** 👇
 
 [![Exploratory Data Analysis](https://github.com/seandhan/image_database/blob/main/Solution-Exploratory%20Data%20Analysis-.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/EDA/Readme.md)
 
@@ -131,7 +132,7 @@ The Univariate and Bivariate analysis can be seen here.
 
 The data model preparation and execution steps can be seen here.
 
-### Click to view 👇:
+**Click to view** 👇
 
 [![Model Building](https://github.com/seandhan/image_database/blob/main/Solution-Model%20Building-.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Model%20Building/Readme.md)
 
@@ -142,7 +143,7 @@ The data model preparation and execution steps can be seen here.
 
 The data model comparison can be seen here.
 
-### Click to view 👇:
+**Click to view** 👇
 
 [![Model Building](https://github.com/seandhan/image_database/blob/main/Solution-Model%20Building-.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Model%20Building/Readme.md)
 ----
@@ -151,9 +152,12 @@ The data model comparison can be seen here.
 
 Based on the analysis the following recommendations can be made:
 
-1. Ideal customers to target would be Executives, having a passport, who are either single or divorced and enquired on travel plans by themselves.
-2. Having a Passport is the greatest indication that a person will be interested in purchasing a travel product.
-3. Customers who are not partnered are also those who will have a higher proplensity to travel.
+1. Ideal customers to target would be Executives, having a passport, who are either single or divorced and enquired on travel plans by themselves. <br>
+
+2. Having a Passport is the greatest indication that a person will be interested in purchasing a travel product.<br>
+
+3. Customers who are not partnered are also those who will have a higher proplensity to travel.<br>
+
 4. Free Lancers who travel for their jobs may not be inclined to purchase a travel plan as they may want to settle and relax on their downtime.
 ----
 
@@ -161,41 +165,41 @@ Based on the analysis the following recommendations can be made:
 
 The Notebook for the "Data Exploration" can be accessed below:
 
-### Click to view 👇:
+**Click to view** 👇
 
 [![DataExp Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Dataset%20Exploration-.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Notebooks/Data%20Exploration.ipynb)
 
 The Notebook for the "Data Preparation" can be accessed below:
 
-### Click to view 👇:
+**Click to view** 👇
 
 [![DataPrep Notebook](https://github.com/seandhan/image_database/blob/main/notebook-data-preparation.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Notebooks/Data%20Preparation.ipynb)
 
 
 The Notebook for the "Data Wrangling" can be accessed below:
 
-### Click to view 👇:
+**Click to view** 👇
 
 [![DataWrangle Notebook](https://github.com/seandhan/image_database/blob/main/notebook-data-wrangling.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Notebooks/Data%20Wrangling.ipynb)
 
 
 The Notebook for the "Exploratory Data Analysis" can be accessed below:
 
-### Click to view 👇:
+**Click to view** 👇
 
 [![EDA Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Exploratory%20Data%20analysis-.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Notebooks/EDA.ipynb)
 
 
 The Notebook for the "Model Building" can be accessed below:
 
-### Click to view 👇:
+**Click to view** 👇
 
 [![Model Building Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Model%20Building-.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Notebooks/Model%20Building.ipynb)
 
 
 The Notebook for the "Model Comparison" can be accessed below:
 
-### Click to view 👇:
+**Click to view** 👇
 
 [![Model Comparison Notebook](https://github.com/seandhan/image_database/blob/main/notebook-model-comparison.svg)](https://github.com/seandhan/Travel-Package-Purchase-Prediction/blob/main/Notebooks/Model%20Comparison.ipynb)
 
