@@ -1,5 +1,3 @@
-# Travel-Package-Purchase-Prediction
-
 <p align="center">
   <img src="https://forthebadge.com/images/badges/made-with-python.svg" />&nbsp;&nbsp;&nbsp;
   <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />&nbsp;&nbsp;&nbsp;
